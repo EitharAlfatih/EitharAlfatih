@@ -3,4 +3,4 @@ layout: post
 title: You're up and running!
 ---
 
-It was so interesting to deal with the conflicts that we need to resolve ourselfes so that Git merge the conflicted parts. It showed that everything has its limitation. And although that git has an amazing set of functionalities, we still to guide him in small cases that git can't perform on our behalf.
+The most interesting course I found so far in the MDS program is **Communication and Argumentation**. What I found intersting about this course in particular is that it challenges our perspective of scientific writing. The first lecture alone was enough to enlighten me to the importance to adapt a more conversational writing.
